@@ -1,0 +1,20 @@
+﻿Detailed Statistics Departures  -- Dummy Data ,,,,,,,
+Origin Airport: Atlanta, GA: Hartsfield-Jackson Atlanta International (ATL),,,,,,
+Airline: Delta Airlines Inc. (DL),,,,,,,
+Month(s): January, February, March, April, May, June, July, August
+Day(s): 1,2,3,4,5,6,7,8
+Year(s): 2019,,,,,,,
+,,,,,,,
+Carrier Code,flight_dt,flightnum,orig_arpt,dest_arpt,flightstatus,lastupdt,flightkey
+DL,1/1/2019,15,ATL,TPA,Boarding,19:48,DL4346615ATLTPA
+DL,1/1/2019,31,ATL,DFW,Boarding,19:17,DL4346631ATLDFW
+DL,1/1/2019,91,ATL,RSW,Boarding,17:20,DL4346691ATLRSW
+DL,1/1/2019,131,ATL,GSP,Delayed,17:48,DL43466131ATLGSP
+DL,1/1/2019,15,ATL,TPA,In,19:58,DL4346615ATLTPA
+DL,1/1/2019,31,ATL,DFW,Boarding,19:17,DL4346631ATLDFW
+DL,1/1/2019,91,ATL,RSW,Boarding,17:20,DL4346691ATLRSW
+DL,1/1/2019,131,ATL,GSP,Boarding,18:48,DL43466131ATLGSP
+DL,8/15/2019,1532,ATL,DSM,Boarding,15:11,DL436921532ATLDSM
+DL,8/15/2019,1534,ATL,IND,Boarding,14:52,DL436921534ATLIND
+,,,,,,,
+ SOURCE: Bureau of Transportation Statistics,,,,,,,
